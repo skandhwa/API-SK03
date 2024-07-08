@@ -1,0 +1,35 @@
+1>WAP in Java 
+Create a Class named Shape with length as instance variable  , create three methods as square , rectangle , circle 
+and find out their respective areas 
+Create a object in main method and call these different methods with the instance of object 
+
+2>WAP in Java 
+Create a class named school ,create name as their instance variables 
+Create a default constructor of this class which will have a print statement to display the name of school 
+Create a method inside the class which will display a message as "This School is based out of Kolkata"
+Create a object under main method and call the constructor and the method 
+
+
+3>WAP in Java to create a class named school 
+create name, address,strength as their instance variables 
+Create two constructor one with two variables and one with all the three variables 
+Create a method that will display all the three parameters 
+create two object of this class and call the respective methods 
+
+
+4>WAP in Java to check if a number is armstrong or not
+
+5> WAP in Java to find the maximum between 5 numbers (use any approach)
+
+6> WAP in Java to find the factorial of a number
+
+7> WAP in Java to check if a number is prime or not
+
+8> Write a constructor in the Car class given below that initializes the brand class field with the string “Ford”.
+
+Call the getBrand() method in the main method of the Sample class  and store the value of the brand in a variable, and print the value.
+
+9>WAP in Java to print the diamond pattern .
+
+10> WAP in Java to reverse a number and check whether the number is palindrome.
+
